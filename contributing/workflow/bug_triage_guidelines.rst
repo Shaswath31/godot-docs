@@ -124,7 +124,7 @@ describe an issue or pull request.
 -  *Input*: relates to the input system.
 -  *Multiplayer*: relates to multiplayer (high-level networking) systems.
 -  *Navigation*: relates to the navigation system (including A* and navmeshes).
--  *Network*: relates to (lot-level) networking.
+-  *Network*: relates to (low-level) networking.
 -  *Particles*: particles, particle systems and their editors.
 -  *Physics*: relates to the physics engine (2D/3D).
 -  *Plugin*: relates to problems encountered while writing plugins.
